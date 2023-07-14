@@ -54,7 +54,7 @@ class _HomePageState extends State<HomeScreen> {
                             elevation: 2,
                             shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(32.0)),
                             padding: const EdgeInsets.all(0.0),
-                            textStyle: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                            textStyle: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold)
                           ),
                           child: const Text(
                             "Registrar Pessoa",
